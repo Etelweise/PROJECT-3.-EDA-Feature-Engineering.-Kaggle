@@ -1,0 +1,16 @@
+# Анализ данных
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Визуализация
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# ML
+scikit-learn>=1.0.0
+
+# Jupyter
+jupyter>=1.0.0
+
+# Оптимизация
+category-encoders>=2.5.0
